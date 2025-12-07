@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "typescript": "5.9.3",
+    "remeda": "2.32.0"
+  }
+}
