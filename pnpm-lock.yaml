@@ -9,16 +9,16 @@ importers:
   .:
     dependencies:
       remeda:
-        specifier: 2.33.1
-        version: 2.33.1
+        specifier: 2.33.3
+        version: 2.33.3
       typescript:
         specifier: 5.9.3
         version: 5.9.3
 
 packages:
 
-  remeda@2.33.1:
-    resolution: {integrity: sha512-404Eba/HI/blNfbebo586OjEnAhq/x5jN1aIfK4gHnjAP7SADaRfDdIjo8Acpz7hkXgM06MPTwu4IbXamvM9Qw==}
+  remeda@2.33.3:
+    resolution: {integrity: sha512-lZne8IOVPnyZApub61z13+iAD7Wr80JdlThr9iUcYjZdZvSBDvRrmJIZsqSKGnI5zJr/zt6ppIEJgZM15X6KjQ==}
 
   typescript@5.9.3:
     resolution: {integrity: sha512-jl1vZzPDinLr9eUt3J/t7V6FgNEw9QjvBPdysz9KfQDD41fQrC2Y4vKQdiaUpFT4bXlb1RHhLpp8wtm6M5TgSw==}
@@ -27,6 +27,6 @@ packages:
 
 snapshots:
 
-  remeda@2.33.1: {}
+  remeda@2.33.3: {}
 
   typescript@5.9.3: {}
